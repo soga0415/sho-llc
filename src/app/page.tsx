@@ -196,6 +196,10 @@ export default function Home() {
                     <td className="py-4">合同会社 唱（Sho LLC）</td>
                   </tr>
                   <tr>
+                    <td className="py-4 pr-4 font-medium">代表者</td>
+                    <td className="py-4">緒方 恵子</td>
+                  </tr>
+                  <tr>
                     <td className="py-4 pr-4 font-medium">設立</td>
                     <td className="py-4">2025年11月18日</td>
                   </tr>
